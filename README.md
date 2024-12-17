@@ -8,12 +8,12 @@
 		2)branch1  - A - B - C
 			\
 			3)branch2
-					\         
+					\         					(지금 여기)
 					4)branch3 - D	-	- - - H`
 										/			        \
 									( E - F - G - H) - H1
 									(깃 로그 리베이스)
-H-1 <- (지금 여기)
+H-1
 깃 로그 리베이스를 사용할때
 별도의 브랜치인 로컬 브랜치 branch3-local 만들고
 작업이 끝난후 branch3-local에서 
