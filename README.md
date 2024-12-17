@@ -8,7 +8,7 @@
 		2)branch1  - A - B - C
 			\
 			3)branch2
-					\(지금 여기)
+					\         (지금 여기)
 					4)branch3 - D	-	 H`
 										/			\
 										E - F - G - H
