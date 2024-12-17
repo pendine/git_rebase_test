@@ -5,9 +5,9 @@
 ```
 1)main - MD 작성
        \
-         2)branch1 (지금 여기)  - A - B - C
+         2)branch1  - A - B - C
                 \
-                 3)branch2 
+                 3)branch2 (지금 여기)
                      \
 					4)branch3 - D - H`
 							    /    \
